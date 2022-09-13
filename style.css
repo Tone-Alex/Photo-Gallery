@@ -213,7 +213,7 @@ footer {
     color: #064044;
     padding: 20px;
     border-top: 1px solid #064044;
-
+    padding: 5% 0;
 }
 
 .footer-items {
@@ -242,6 +242,7 @@ footer {
 .footer-items ul li:hover {
     text-decoration: underline;
 }
+
 
 
 #sign-up {
@@ -299,9 +300,9 @@ footer {
 }
 
 #copyright {
-    margin: 10px auto;
+    margin: 40px auto;
     width: 250px;
-    padding: 10px 0 5px;
+    /* padding: 10px 0 5px; */
     border-top: 1px solid #064044;
 }
 
